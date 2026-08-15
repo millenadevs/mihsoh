@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mihsoh/mihsoh/main/bannergit.jpg" width="100%" style="border-radius: 45px">
   <br><br>
   <p <div style="display: flex;" align="center">
-    <a href="www.linkedin.com/in/millenasousa-webdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ebb9ce?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/millenasousa-webdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ebb9ce?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mille27rayssa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-985974?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
