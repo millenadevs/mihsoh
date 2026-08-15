@@ -9,11 +9,6 @@
     <font color="#00F0FF">⚡ MILLENA RAYSSA ⚡</font>
   </h1>
 
-  <p>
-    <b>SYSTEM STATUS:</b> <font color="#00FF66">OPEN TO WORK (DEV JR / ESTÁGIO)</font> &nbsp;|&nbsp; 
-    <b>LOCATION:</b> <font color="#00F0FF">JOÃO PESSOA, PB - BRAZIL</font>
-  </p>
-
   <!-- BADGES DE STATUS / SOCIAL -->
   <p>
     <a href="https://github.com/mihsoh"><img src="https://img.shields.io/github/followers/mihsoh?label=Followers&logo=github&style=for-the-badge&color=00F0FF&labelColor=0D1117" alt="Followers"></a>
