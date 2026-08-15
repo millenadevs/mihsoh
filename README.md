@@ -29,11 +29,3 @@
 
 <!-- SEÇÃO SOBRE MIM -->
 <h2><font color="#00F0FF">📡 // SYSTEM_LOG: ABOUT_ME</font></h2>
-
-```sys
-[SYSTEM MEMORY LOADED]
-> USER_ID: Millena Rayssa Soares De Sousa
-> ALIAS: @mihsoh
-> EDUCATION: Tecnóloga em Análise e Desenvolvimento de Sistemas (UEPB) | Técnica em Informática para Internet (CPM)
-> PRIMARY_DIRECTIVE: Desenvolver aplicações web eficientes, modelar bancos de dados e estruturar soluções de software escaláveis.
-> TARGET_ROLES: Desenvolvedora Junior / Estagiária na área de Tecnologia
