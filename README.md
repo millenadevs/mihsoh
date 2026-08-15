@@ -4,6 +4,7 @@
   <p <div style="display: flex;" align="center">
     <a href="https://www.linkedin.com/in/millenasousa-webdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ebb9ce?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mille27rayssa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-985974?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.instagram.com/mrsouares/" target="_blank"><img src="https://img.shields.io/badge/Instagram-8776AF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=ebb9ce&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;DESIGNER+%7C+FRONT-END+DEVELOPER;HTML+%7C+CSS+%7C+JAVASCRIPT;WELCOME+TO+MY+CODE+UNIVERSE"/>
