@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mihsoh/mihsoh/main/bannergit.jpg" width="100%" style="border-radius: 45px">
+  
 </div>  <br>
 
 <div align="left">
